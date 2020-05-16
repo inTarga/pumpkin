@@ -266,6 +266,10 @@ a {
   color: #666666;
   text-decoration: none;
 }
+a:hover,
+a:focus {
+  color: #ef6b7b;
+}
 
 .image, figure img, img {
   width: 100%;

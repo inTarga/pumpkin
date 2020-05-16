@@ -28,6 +28,21 @@
                <i class="{{ .icon }} fa-lg"></i>
                </a>
              </li>
+             <li>
+               <a href="mailto:intarga@protonmail.com" title="E-Mail">
+               <i class="fab fa-at fa-lg"></i>
+               </a>
+             </li>
+             <li>
+               <a href="{{.Site.BaseURL}}about" title="About">
+               <i class="fab fa-info-circle fa-lg"></i>
+               </a>
+             </li>
+             <li>
+               <a href="{{.Site.BaseURL}}index.xml" title="RSS">
+               <i class="fab fa-rss fa-lg"></i>
+               </a>
+             </li>
            {{- end -}}
         {{ end }}
       </ul>
