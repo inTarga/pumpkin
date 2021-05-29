@@ -1,5 +1,5 @@
 {{if isset .Params "images" }}
-<div class="featured_image">
+<div class="featured_image" style="line-height: 0;">
     <a href="{{ .Permalink }}" title="{{ .Title }}">
         <img src="{{ index .Params.images 0 }}">
     </a>
