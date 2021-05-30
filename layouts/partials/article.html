@@ -1,5 +1,7 @@
 <article>
 
+    <title>{{ .Title }} | {{ .Site.Title }}</title>
+
     <h2>{{ .Title }}</h2>
 
     {{ if or (not (isset .Params "meta")) (eq .Params.meta true) }}
