@@ -270,6 +270,12 @@ a:hover,
 a:focus {
   color: #ef6b7b;
 }
+p a {
+  text-decoration: underline;
+}
+.footnote-ref {
+  text-decoration: none;
+}
 
 .image, figure img, img {
   width: 100%;
