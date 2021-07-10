@@ -275,7 +275,7 @@ a:focus {
 p a {
   text-decoration: underline;
 }
-.footnote-ref {
+.footnote-ref, a.falink {
   text-decoration: none;
 }
 
