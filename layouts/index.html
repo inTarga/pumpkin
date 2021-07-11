@@ -1,6 +1,7 @@
 {{ define "main" }}
 
 <section id="home">
+  <title>{{ .Site.Title }}</title>
   <ul>
     {{ $hp_length := 10 }}
     {{ if isset .Site.Params "homepagelength" }}
