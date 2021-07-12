@@ -1,15 +1,15 @@
-name = "Kiera"
+name = "Pumpkin"
 license = "MIT"
-licenselink = "https://github.com/funkydan2/hugo-kiera/blob/master/LICENSE.md"
-description = "Hugo Theme for creative and technical writing"
-homepage = "http://github.com/avianto/hugo-kiera"
+licenselink = "https://git.sr.ht/~intarga/pumpkin/tree/trunk/item/LICENSE"
+description = "Minimal, no JS, adaptive light/dark theme"
+homepage = "https://git.sr.ht/~intarga/pumpkin"
 tags = ["blog","minimal","responsive"]
-features = ["blog","disqus","google-analytics","font-awesome"]
+features = ["blog","font-awesome"]
 min_version = "0.55.0"
 
 [author]
-  name = "Daniel Saunders"
-  homepage = "https://github.com/funkydan2"
+  name = "Ingrid"
+  homepage = "https://ingrids.space"
 
 [original]
   name = "b. avianto"
