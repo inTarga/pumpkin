@@ -3,6 +3,7 @@ license = "MIT"
 licenselink = "https://git.sr.ht/~intarga/pumpkin/tree/trunk/item/LICENSE"
 description = "Minimal, no JS, adaptive light/dark theme"
 homepage = "https://git.sr.ht/~intarga/pumpkin"
+demosite = "https://ingrids.space"
 tags = ["blog","minimal","responsive"]
 features = ["blog","font-awesome"]
 min_version = "0.55.0"
