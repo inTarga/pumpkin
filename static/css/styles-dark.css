@@ -19,6 +19,10 @@ time {
   font-family: sans-serif;
 }
 
+a {
+	word-wrap: break-word;
+}
+
 #container {
   margin: 0;
   padding: 0;
