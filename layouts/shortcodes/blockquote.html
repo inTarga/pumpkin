@@ -1,0 +1,9 @@
+<blockquote>
+  <p>
+    {{ .Inner }}
+    {{ with .Get "source" }}
+      <br/>
+      <div class="source" ><em><strong>{{ . }}</strong></em></div>
+    {{ end }}
+  </p>
+</blockquote>
